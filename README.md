@@ -11,4 +11,5 @@ Jakob Ross - jjr113@pitt.edu
 **[Police Incidents](https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e)**
 
   This shows every incident reported in the pittsburgh area by police. It provides multiple forms of information like time, location, neighborhood, and description of each incident. It also provides a hierarchy value of each incident which is used to determine the severity of each incident. 
+  ![alt text](Picture1.jpg)
 ## Summary of Findings
