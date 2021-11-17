@@ -12,5 +12,5 @@ Jakob Ross - jjr113@pitt.edu
 
   This shows every incident reported in the pittsburgh area by police. It provides multiple forms of information like time, location, neighborhood, and description of each incident. It also provides a hierarchy value of each incident which is used to determine the severity of each incident.
   
-![alt text](Picture1.jpg)
+![alt text](images/Picture1.jpg)
 ## Summary of Findings
