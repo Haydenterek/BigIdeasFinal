@@ -10,7 +10,7 @@ Jakob Ross - jjr113@pitt.edu
 ## Datasets Used and Description of Each
 **[Police Incidents](https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e)**
 
-  This shows every incident reported in the pittsburgh area by police. It provides multiple forms of information like time, location, neighborhood, and description of each incident. It also provides a hierarchy value of each incident which is used to determine the severity of each incident.
+  This graphic depicts every police-reported incident in the Pittsburgh region. It includes information such as the time, location, neighborhood, and a description of each incident. It also gives each incident a hierarchy value, which is used to determine the severity of the incident.
   
 ![alt text](images/Picture1.jpg)
 ## Summary of Findings
