@@ -15,5 +15,6 @@ Jakob Ross - jjr113@pitt.edu
 ![alt text](images/Picture1.jpg)
 
 **[Property Sale Transactions](https://data.wprdc.org/dataset/real-estate-sales)**
+
 This data set was used to look at which neighborhoods had the lowest cost for housing and the highest. From here, it was determined what was the best neighborhood for living. This can be found in the corresponding notebook. 
 ## Summary of Findings
