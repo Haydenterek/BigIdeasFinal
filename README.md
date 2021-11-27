@@ -17,4 +17,10 @@ Jakob Ross - jjr113@pitt.edu
 **[Property Sale Transactions](https://data.wprdc.org/dataset/real-estate-sales)**
 
 This data set was used to look at which neighborhoods had the lowest cost for housing and the highest. From here, it was determined what was the best neighborhood for living. This can be found in the corresponding notebook. 
+
+**[Police Firearm Seizures](https://data.wprdc.org/dataset/pbp-fire-arm-seizures)**
+
+Add graphic and description here, cite where graphics come from
+
+
 ## Summary of Findings
