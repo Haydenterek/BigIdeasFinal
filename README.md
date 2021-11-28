@@ -20,7 +20,7 @@ This data set was used to look at which neighborhoods had the lowest cost for ho
 
 **[Police Firearm Seizures](https://data.wprdc.org/dataset/pbp-fire-arm-seizures)**
 
-![alt text](images/Total Firearm Seizures.jpg)
+![alt text](images/Total Firearm Seizures.JPG)
 
 The above graphic shows the amount of firearms that were taken by Pittsburgh police. This graph only shows the total per month rather than a graph that shows per neighborhood.
 Graphic is from: https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4?view_id=516aa045-87a6-494b-8e87-252ff768d781
