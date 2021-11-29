@@ -26,3 +26,5 @@ The above graphic shows the amount of firearms that were taken by Pittsburgh pol
 Graphic is from: https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e967381d-d7e9-48e3-a2a2-39262f7fa5c4?view_id=516aa045-87a6-494b-8e87-252ff768d781
 
 ## Summary of Findings
+
+Our findings lead us to believe that the best neighborhood is one with little to no crime, good pricing for housing, and little to no problems with weapons that are used to cause harm. From our research, we are lead to believe the best neighbor hood in Pittsburgh is **Mt. Oliver Boro**.
