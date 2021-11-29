@@ -27,4 +27,4 @@ Graphic is from: https://data.wprdc.org/dataset/pbp-fire-arm-seizures/resource/e
 
 ## Summary of Findings
 
-Our findings lead us to believe that the best neighborhood is one with little to no crime, good pricing for housing, and little to no problems with weapons that are used to cause harm. From our research, we are lead to believe the best neighbor hood in Pittsburgh is **Mt. Oliver Boro**.
+Our findings lead us to believe that the best neighborhood is one with little to no crime, good pricing for housing, and little to no problems with weapons that are used to cause harm. From our research, we are lead to believe the best neighborhood in Pittsburgh is **Mt. Oliver Boro**.
